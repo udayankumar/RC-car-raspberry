@@ -2,7 +2,8 @@
 # Helps to figure out Max and Min values for ESC
 # Using Right and Left Arrow keys, one can figure out Max and Min turn values
 # Using Up and Down Arrow keys, one can settle on a speed limits suitable for the future task.
-# Modified from http://www.codehaven.co.uk/using-arrow-keys-with-inputs-python/
+# Modified from http://www.codehaven.co.uk/using-arrow-keys-with-inputs-python/ and
+# https://www.raspberrypi.org/forums/viewtopic.php?t=46732#p368096
 # Author: Udayan Kumar
 from __future__ import division
 import curses
